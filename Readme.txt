@@ -1,6 +1,7 @@
-1. convert.exe 파일을 실행
-2. 명령어의 format 형태에 알맞게 어셈블리 코드를 입력
-3. 어셈블리 코드를 바이너리 코드로 변환
+- Execute convert.exe
+- Input Assembly code accoding to MIPS instruction format
+- Convert to Assembly to Binary code in Convert.c
+- Output Binary code 
 
 ex)
 input: add $1 $2 $3
